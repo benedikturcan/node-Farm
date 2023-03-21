@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "a node farm for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benedikturcan/node-Farm.git"
+  },
+  "author": "Benedikt Urcan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benedikturcan/node-Farm/issues"
+  },
+  "homepage": "https://github.com/benedikturcan/node-Farm#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
